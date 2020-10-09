@@ -1,0 +1,8 @@
+package org.genx.basics;
+
+class Welcome{
+	
+	public static void main(String[] args) {
+		
+	}
+}

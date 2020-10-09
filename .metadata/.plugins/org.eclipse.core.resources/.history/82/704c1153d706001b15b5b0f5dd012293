@@ -1,0 +1,10 @@
+package org.genx.basics;
+
+class Welcome{
+	
+	public static void main(String[] args) {
+		String a="10";
+		String b="20";
+		if (a.compareTo(b) )
+	}
+}

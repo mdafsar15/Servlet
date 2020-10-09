@@ -1,0 +1,22 @@
+//step:2
+package org.genx.demo;
+
+import java.sql.Connection;
+
+public class JDBCConnection {
+
+	public static void main(String[] args) {
+		
+		Connection con=null;
+		
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			
+			System.out.println("Driver Class Loaded");
+		}catch(ClassNotFoundException e)
+		{
+			e.printStackTrace();
+		}
+	}
+
+}

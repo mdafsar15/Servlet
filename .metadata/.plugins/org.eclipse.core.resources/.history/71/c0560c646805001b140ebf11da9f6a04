@@ -1,0 +1,31 @@
+package org.genx.basics;
+
+import java.util.Scanner;
+
+public class Welcome {
+
+	public Welcome() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Please Enter Your Lucky Number From 1 To 10:");
+		
+		int a = sc.nextInt();
+		
+		if(a==0||a==1||a==2||a==3||a==4||a==5||a==6||a==7||a==8||a==9||a==10)
+		{
+		for (int i = 0; i < 10; i++) {
+			System.out.println("Congratulation!!! AAP MAILA HAI ");
+		}
+		}
+		else {
+			System.out.println("Lund 10 Ka Andar Type Kar");
+		
+		}
+		}
+	}
+
+}

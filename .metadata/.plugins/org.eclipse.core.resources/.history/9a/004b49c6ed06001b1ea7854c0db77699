@@ -1,0 +1,9 @@
+package org.genx.demo;
+
+public class JDBCFetch {
+
+	public JDBCFetch() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

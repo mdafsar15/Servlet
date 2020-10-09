@@ -1,0 +1,9 @@
+package org.statement;
+
+public class JDBCStatement {
+
+	public JDBCStatement() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

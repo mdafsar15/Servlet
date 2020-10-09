@@ -1,0 +1,19 @@
+package org.genx.basics;
+
+public class Welcome {
+
+	public Welcome() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		
+		System.out.println("Please Enter Your Lucky Number:");
+		
+		for (int i = 0; i < 10; i++) {
+			System.out.println("Congratulation!!! AAP MAILA HAI ");
+			
+		}
+	}
+
+}

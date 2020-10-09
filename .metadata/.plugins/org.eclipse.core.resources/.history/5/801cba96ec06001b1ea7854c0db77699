@@ -1,0 +1,9 @@
+package org.genx.demo;
+
+public class JDBCUpdate {
+
+	public JDBCUpdate() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,9 @@
+package org.statement;
+
+public class JDBCExecuteUpdate {
+
+	public JDBCExecuteUpdate() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

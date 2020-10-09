@@ -1,0 +1,9 @@
+package org.genx.demo;
+
+public class JDBCDelete {
+
+	public JDBCDelete() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
